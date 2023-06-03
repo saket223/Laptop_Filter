@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: skyblue;
+      }
+.heading{
+    position: absolute;
+    top: 2.5%;
+    left: 13.5%;
+}
+h1
+{
+    color: black;
+    font-family:SCRIPT;
+    font-weight: bolder;
+    word-spacing: 5px;
+    font-size: 60px;
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 5px 20px;
+    border: 5px solid black;
+    font-family: CENTURY GOTHIC;
+    font-weight: bold;
+    font-size: 29px;   
+}
+ul li a:hover{
+    background color: red;
+    color: #595959;
+}
+.t1
+{
+    position: absolute;
+    top: 15%;
+    left: 1%;
+}
+.t2
+{
+    position: absolute;
+    top: 15%;
+    left: 17.5%;
+}
+.t3
+{
+    position: absolute;
+    top: 15%;
+    left: 34%;
+}
+.t4
+{
+    position: absolute;
+    top: 15%;
+    left: 50.5%;
+}
+.t5
+{
+    position: absolute;
+    top: 15%;
+    left: 67%;
+}
+.t6
+{
+    position: absolute;
+    top: 15%;
+    left: 83.5%;
+    text-align: center;
+}
+table {
+    position: absolute;
+    top: 10%;
+    width: 100%;
+    color: black;
+    font-family: century gothic;
+    font-size: 15.8px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 120px;
+}
+th {
+background-color: yellow;
+color: black;
+font-family: script;
+word-spacing: 5px;
+font-size: 25px;
+border: 2px solid black;
+}
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    vertical-align: middle;
+}

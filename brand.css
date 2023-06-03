@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  font-family: TIMES NEW ROMAN;
+    background-color: black;
+}
+.heading
+ {
+  position: absolute;
+  top: 10%;
+  left: 15%;
+}
+h1 {
+    color: yellow;
+    font-family: TIMES NEW ROMAN;
+    font-size: 65px;
+    margin-bottom: 50px;
+    word-spacing: 10px;    
+}
+.com 11img
+{
+   position: absolute;
+   top: 40%;
+   left: 34.5%;
+   width: 200px;
+   height: 200px;
+}
+.h img
+{
+   position: absolute;
+   top: 27%;
+   left: 10%;
+   width: 400px;
+   height: 280px;
+}
+.d img
+{
+   position: absolute;
+   top: 27%;
+   left: 69%;
+   width: 300px;
+   height: 280px;
+}
+.as img
+{
+   position: absolute;
+   top: 37%;
+   left: 39%;
+   width: 400px;
+   height: 120px;
+}
+.ac img
+{
+   position: absolute;
+   top: 70%;
+   left: 51%;
+   width: 500px;
+   height: 175px;
+}
+.le img
+{
+   position: absolute;
+   top: 70%;
+   left: 15%;
+   width: 500px;
+   height: 175px;
+}
+.logo img
+{
+    float: left;
+    width: 210px;
+    height: 175px;
+}
